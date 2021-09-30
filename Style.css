@@ -1,0 +1,135 @@
+.First-part,
+ul {
+    text-decoration: none;
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: #f9faf9;
+    font-size: 18px;
+}
+
+.ref {
+    display: flex;
+    gap: 20px;
+}
+.logo {
+    height: 50px;
+    margin: 10px;
+    margin-left: 100px;
+}
+.container {
+    display: flex;    
+    background-color: #1F2937;
+    justify-content: space-between;
+    padding: 20px;
+}
+.container-1 {
+    display: flex;    
+    background-color: #1F2937;
+    justify-content: center;
+    gap:60px;
+    padding-bottom: 20px;
+}
+.footer {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: center;
+}
+button {
+    border-radius: 8px;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+.sign-up-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882f6;
+    color: #e5e7eb;
+    height: 30px;
+    margin-top: 50px;
+}
+p {
+    color: black;
+}
+.sm-text {
+    color: white;
+}
+.subtex {
+    display: flex;
+    gap:80px
+}
+.pic-1 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+}
+.pic-1 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+}
+
+.Imag {
+    display:flex;
+    gap: 10px;
+}
+.header {
+    font-size: 36px;
+    font-weight:bolder;
+    color: white;
+    display: flex;
+    width: 300px;
+}
+.container-2 {
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.sign-up {
+    background-color: #3882f6;
+    border-color: #3882f6;
+    text-align: center;
+}
+.container-3 {
+    display: flex;
+    background-color: #e5e7eb;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+}
+.quote {
+    display: flex;
+    margin-left: 260px;
+    font-style: bold;
+}
+h3 {
+    color: black;
+}
+.saying {
+    font-style: italic;
+    font-size: 26px;
+}
+.container-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+.con{
+    display: flex;
+    width: 800px;
+    background-color: #3882f6; 
+    gap: 40px;
+    border-radius: 8px;
+}
+.su-text {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    margin-left: 80px;
+    align-content: center;
+
+}
